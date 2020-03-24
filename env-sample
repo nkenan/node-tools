@@ -1,4 +1,8 @@
 # COPY THIS FILE AND RENAME IT TO .env
 # NEVER UPLOAD THIS FILE WITH GIT: .gitignore must contain '.env'
 ###################################################################################
+LOG_FILE_DIRECTORY=DIRECTORY/public/logs
+DEBUG_LEVEL=6
 
+DEFAULT_EMOJI=🌏
+DEFAULT_MESSAGE_LEVEL=4
