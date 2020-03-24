@@ -1,0 +1,4 @@
+# COPY THIS FILE AND RENAME IT TO .env
+# NEVER UPLOAD THIS FILE WITH GIT: .gitignore must contain '.env'
+###################################################################################
+
